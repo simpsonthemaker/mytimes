@@ -1,0 +1,72 @@
+/* Universal Styles */
+
+/* Header */
+
+
+.logo {
+    display: flex;
+    align-items: center;
+    flex-grow: 1;
+    padding-left: 30px;
+    color: MediumAquamarine;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  z-index: 1
+  width: 100%;
+  height: 80px;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+/* App Container */
+
+.col1box1 {
+  border-style: solid;
+}
+
+.col1box2 {
+  border-style: solid;
+}
+
+.col1box3 {
+  border-style: solid;
+}
+
+.col1box4 {
+  border-style: solid;
+}
+
+.col1box5 {
+  border-style: solid;
+}
+
+.col1box6 {
+  border-style: solid;
+}
+
+
+.col2box1 {
+  border-style: solid;
+}
+
+.col2box2 {
+  border-style: solid;
+}
+
+.col2box3 {
+  border-style: solid;
+}
+
+.col3box1 {
+  border-style: solid;
+}
+
+.col3box2 {
+  border-style: solid;
+}
+
+/* App Container */
