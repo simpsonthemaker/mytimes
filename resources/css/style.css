@@ -24,49 +24,64 @@ header {
 
 /* App Container */
 
-.col1box1 {
+  /* Large Column */
+.largecol {
+    width: 630px;
+  }
+
+.largebox1 {
   border-style: solid;
 }
 
-.col1box2 {
+.largebox2 {
   border-style: solid;
 }
 
-.col1box3 {
+.largebox3 {
   border-style: solid;
 }
 
-.col1box4 {
+.largebox4 {
   border-style: solid;
 }
 
-.col1box5 {
+.largebox5 {
   border-style: solid;
 }
 
-.col1box6 {
+.largebox6 {
+  border-style: solid;
+}
+
+  /* Medium Column */
+.mediumcol {
+      width: 300px;
+    }
+
+.mediumbox1 {
+  border-style: solid;
+}
+
+.mediumbox2 {
+  border-style: solid;
+}
+
+.mediumbox3 {
+  border-style: solid;
+}
+
+  /* Small Column */
+.smallcol {
+      width: 240px;
+    }
+
+.smallbox1 {
+  border-style: solid;
+}
+
+.smallbox2 {
   border-style: solid;
 }
 
 
-.col2box1 {
-  border-style: solid;
-}
-
-.col2box2 {
-  border-style: solid;
-}
-
-.col2box3 {
-  border-style: solid;
-}
-
-.col3box1 {
-  border-style: solid;
-}
-
-.col3box2 {
-  border-style: solid;
-}
-
-/* App Container */
+/* Footer */
